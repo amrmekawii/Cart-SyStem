@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\bin\Debug\net7.0\Cart System.DAL.deps.json
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\bin\Debug\net7.0\Cart System.DAL.runtimeconfig.json
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\bin\Debug\net7.0\Cart System.DAL.dll
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\bin\Debug\net7.0\Cart System.DAL.pdb
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.dll
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\refint\Cart System.DAL.dll
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.pdb
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\Cart System.DAL.genruntimeconfig.cache
+C:\Users\Dell\Desktop\NET Task-Cart System\Cart System.DAL\obj\Debug\net7.0\ref\Cart System.DAL.dll
